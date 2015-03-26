@@ -31,6 +31,10 @@
   </div>
   <div class="bd">
     <!-- TemplateBeginEditable name="touch首页广告区域" -->
+<!-- #BeginLibraryItem "/library/ad_position.lbi" -->
+
+{insert name='ads' id=$ads_id num=$ads_num}
+ <!-- #EndLibraryItem -->
 <!-- TemplateEndEditable -->
   </div>
 </div>
@@ -49,7 +53,7 @@ TouchSlide({
 <!--content s-->
 <div id=content class="wrap">
   <!--搜索区域-->
-  <header class=region>
+  <!--<header class=region>
     <div class=content>
       <div id=fake-search>
         <div class="fakeInput box1 radius15">
@@ -72,7 +76,7 @@ TouchSlide({
       <!-- {/if} -->
       <!-- {/foreach} -->
     </ul>
-  </div>
+  </div>-->
   <!--快速连接e-->
 <!-- TemplateBeginEditable name="中部主区域" -->
 <!-- #BeginLibraryItem "/library/recommend_best.lbi" -->
