@@ -1,5 +1,5 @@
 <div id="content" class="footer mr-t20">
-  <div class="in">
+  <!--<div class="in">
     <div class="search_box">
       <form method="post" action="search.php" name="searchForm" id="searchForm_id">
         <input name="keywords" type="text" id="keywordfoot" />
@@ -8,14 +8,14 @@
     </div>
     <a href="./" class="homeBtn"> <span class="ico_05"> </span> </a> <a href="#top" class="gotop"> <span class="ico_06"> </span> <p> TOP </p>
     </a>
-  </div>
-  <p class="link region"> <a href="<?php echo $this->_var['site_url']; ?>?computer=1"> 电脑版 </a> <a href="./"> 触屏版 </a> <a href="#"> 苹果客户端 </a> <a class="#"> Android客户端 </a> </p>
+  </div>-->
+  <!--<p class="link region"> <a href="<?php echo $this->_var['site_url']; ?>?computer=1"> 电脑版 </a> <a href="./"> 触屏版 </a> <a href="#"> 苹果客户端 </a> <a class="#"> Android客户端 </a> </p>-->
   <p class="region"> 
     <?php if ($this->_var['icp_number']): ?> 
     <?php echo $this->_var['lang']['icp_number']; ?>: <a href="http://www.miibeian.gov.cn/" target="_blank"> <?php echo $this->_var['icp_number']; ?> </a> 
     <?php endif; ?> 
     <?php echo $this->_var['copyright']; ?> </p>
-  <div class="favLink region"> <a href="http://www.ecmoban.com"> powered by ecmoban </a> </div>
+  <!--<div class="favLink region"> <a href="http://www.ecmoban.com"> powered by ecmoban </a> </div>-->
 </div>
 
 

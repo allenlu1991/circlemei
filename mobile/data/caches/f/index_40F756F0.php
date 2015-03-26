@@ -1,9 +1,9 @@
-<?php exit;?>a:3:{s:8:"template";a:4:{i:0;s:53:"F:/wamp/www/circlemei/mobile/themes/miqinew/index.dwt";i:1;s:70:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/recommend_best.lbi";i:2;s:69:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/recommend_new.lbi";i:3;s:67:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1427188715;s:8:"maketime";i:1427185115;}<!DOCTYPE html>
+<?php exit;?>a:3:{s:8:"template";a:5:{i:0;s:53:"F:/wamp/www/circlemei/mobile/themes/miqinew/index.dwt";i:1;s:67:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/ad_position.lbi";i:2;s:70:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/recommend_best.lbi";i:3;s:69:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/recommend_new.lbi";i:4;s:67:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1427374923;s:8:"maketime";i:1427371323;}<!DOCTYPE html>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
 <meta charset="utf-8" />
-<title>专属圈子的服装潮牌 触屏版</title>
+<title>圈美-专属圈子的服装潮牌 触屏版</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
@@ -29,6 +29,7 @@
   </div>
   <div class="bd">
     
+554fcae493e564ee0dc75bdf2ebf94caads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"1";s:3:"num";s:1:"3";}554fcae493e564ee0dc75bdf2ebf94ca
   </div>
 </div>
 <script type="text/javascript">
@@ -44,7 +45,7 @@ TouchSlide({
 <div class="blank2"> </div>
 <div id=content class="wrap">
   
-  <header class=region>
+  <!--<header class=region>
     <div class=content>
       <div id=fake-search>
         <div class="fakeInput box1 radius15">
@@ -58,33 +59,8 @@ TouchSlide({
   <div class="region row row_category">
     <ul class="flex flex-f-row">
     
-	        <li class="flex_in"> <a href="cat_all.php" title="全部分类"> <img src="themes/miqinew/images/icon_indexn_01.png" /> </a>
-        <p> 全部分类 </p>
-      </li>
-                  <li class="flex_in"> <a href="article_cat.php?id=3" title="帮助中心"> <img src="themes/miqinew/images/icon_indexn_02.png" /> </a>
-        <p> 帮助中心 </p>
-      </li>
-                  <li class="flex_in"> <a href="user.php" title="个人中心"> <img src="themes/miqinew/images/icon_indexn_03.png" /> </a>
-        <p> 个人中心 </p>
-      </li>
-                  <li class="flex_in"> <a href="ectouch.php?act=share" title="分享"> <img src="themes/miqinew/images/icon_indexn_04.png" /> </a>
-        <p> 分享 </p>
-      </li>
-            </ul><ul class="flex flex-f-row">
-                  <li class="flex_in"> <a href="ectouch.php?act=contact" title="联系我们"> <img src="themes/miqinew/images/icon_indexn_05.png" /> </a>
-        <p> 联系我们 </p>
-      </li>
-                  <li class="flex_in"> <a href="http://bbs.ecmoban.com" title="论坛"> <img src="themes/miqinew/images/icon_indexn_06.png" /> </a>
-        <p> 论坛 </p>
-      </li>
-                  <li class="flex_in"> <a href="http://www.ecmoban.com/app/ecmoban.apk" title="客户端"> <img src="themes/miqinew/images/icon_indexn_07.png" /> </a>
-        <p> 客户端 </p>
-      </li>
-                  <li class="flex_in"> <a href="../" title="电脑版"> <img src="themes/miqinew/images/icon_indexn_08.png" /> </a>
-        <p> 电脑版 </p>
-      </li>
-                </ul>
-  </div>
+	      </ul>
+  </div>-->
   
 <style type="text/css">
 .picScroll3{margin:10px auto; text-align:center;}
@@ -127,6 +103,13 @@ TouchSlide({
                 <span class="price_s"> ￥<span>59</span> </span>
 				
                                 <br>思亲肤绿茶泡沫洁面摩丝1...                </li>
+                                                <li><a href="goods.php?id=117"><img src="http://localhost/circlemei/images/201311/thumb_img/117_thumb_G_1385664825588.jpg" /></a>
+                <br/>
+                 
+				<font style="font-size:8px">市场价</font><del style="font-size: .675rem;">￥<span>95</span></del>
+                <span class="price_s"> ￥<span>39</span> </span>
+				
+                                <br>嘉娜宝玫瑰药用洗面奶15...                </li>
                                         </div>
     </div>
     <div class="position_a_lt">
@@ -192,6 +175,13 @@ TouchSlide({
                 <span class="price_s"> ￥<span>70</span> </span> 
 				
                                 <br>JUJU透明质酸保湿洗面...                </li>
+                                                <li><a href="goods.php?id=118"><img src="http://localhost/circlemei/images/201311/thumb_img/118_thumb_G_1385664875584.jpg" /></a>
+                <br/>
+                 
+				<font style="font-size:8px">市场价</font><del style="font-size: .675rem;">￥<span>288</span></del>
+                <span class="price_s"> ￥<span>119</span> </span> 
+				
+                                <br>理肤泉特安洁面乳200m...                </li>
                                         </div>
     </div>
     <div class="position_a_lt">
@@ -219,7 +209,7 @@ TouchSlide({
 </div>
  
 <div id="content" class="footer mr-t20">
-  <div class="in">
+  <!--<div class="in">
     <div class="search_box">
       <form method="post" action="search.php" name="searchForm" id="searchForm_id">
         <input name="keywords" type="text" id="keywordfoot" />
@@ -228,12 +218,12 @@ TouchSlide({
     </div>
     <a href="./" class="homeBtn"> <span class="ico_05"> </span> </a> <a href="#top" class="gotop"> <span class="ico_06"> </span> <p> TOP </p>
     </a>
-  </div>
-  <p class="link region"> <a href="http://localhost/circlemei/?computer=1"> 电脑版 </a> <a href="./"> 触屏版 </a> <a href="#"> 苹果客户端 </a> <a class="#"> Android客户端 </a> </p>
+  </div>-->
+  <!--<p class="link region"> <a href="http://localhost/circlemei/?computer=1"> 电脑版 </a> <a href="./"> 触屏版 </a> <a href="#"> 苹果客户端 </a> <a class="#"> Android客户端 </a> </p>-->
   <p class="region"> 
      
-    &copy; 2005-2015 圈美 版权所有，并保留所有权利。 </p>
-  <div class="favLink region"> <a href="http://www.ecmoban.com"> powered by ecmoban </a> </div>
+    &copy; 2015 圈美 版权所有，并保留所有权利。 </p>
+  <!--<div class="favLink region"> <a href="http://www.ecmoban.com"> powered by ecmoban </a> </div>-->
 </div>
 <link href="themes/miqinew/css/global_nav.css?v=20140408" type="text/css" rel="stylesheet"/>
 <div class="global-nav   global-nav--current">

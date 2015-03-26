@@ -32,6 +32,7 @@
   </div>
   <div class="bd">
     
+<?php $this->assign('ads_id','1'); ?><?php $this->assign('ads_num','3'); ?><?php echo $this->fetch('library/ad_position.lbi'); ?>
 
   </div>
 </div>
@@ -50,7 +51,7 @@ TouchSlide({
 
 <div id=content class="wrap">
   
-  <header class=region>
+  <!--<header class=region>
     <div class=content>
       <div id=fake-search>
         <div class="fakeInput box1 radius15">
@@ -77,7 +78,7 @@ if ($this->_foreach['nav_middle_list']['total'] > 0):
       <?php endif; ?>
       <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
     </ul>
-  </div>
+  </div>-->
   
 
 <?php echo $this->fetch('library/recommend_best.lbi'); ?>

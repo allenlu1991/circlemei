@@ -16,16 +16,16 @@
         </div>
         <div class="bd">
             <ul>
-                <?php $_from = $this->_var['promotion_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'goods_0_05198400_1427183437');$this->_foreach['hot_goods'] = array('total' => count($_from), 'iteration' => 0);
+                <?php $_from = $this->_var['promotion_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'goods_0_85555000_1427358742');$this->_foreach['hot_goods'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['hot_goods']['total'] > 0):
-    foreach ($_from AS $this->_var['goods_0_05198400_1427183437']):
+    foreach ($_from AS $this->_var['goods_0_85555000_1427358742']):
         $this->_foreach['hot_goods']['iteration']++;
 ?>
-                <li><a href="<?php echo $this->_var['goods_0_05198400_1427183437']['url']; ?>"><img src="<?php echo $this->_var['site_url']; ?><?php echo $this->_var['goods_0_05198400_1427183437']['thumb']; ?>" /></a>
+                <li><a href="<?php echo $this->_var['goods_0_85555000_1427358742']['url']; ?>"><img src="<?php echo $this->_var['site_url']; ?><?php echo $this->_var['goods_0_85555000_1427358742']['thumb']; ?>" /></a>
                 <br/>            
-				<font style="font-size:8px">市场价</font><del style="font-size: .675rem;"><?php echo $this->_var['goods_0_05198400_1427183437']['market_price']; ?></del>
-				 <span class="price_s"> <?php echo $this->_var['goods_0_05198400_1427183437']['promote_price']; ?> </span> 
-				<br><?php echo sub_str(htmlspecialchars($this->_var['goods_0_05198400_1427183437']['goods_style_name']),12); ?>
+				<font style="font-size:8px">市场价</font><del style="font-size: .675rem;"><?php echo $this->_var['goods_0_85555000_1427358742']['market_price']; ?></del>
+				 <span class="price_s"> <?php echo $this->_var['goods_0_85555000_1427358742']['promote_price']; ?> </span> 
+				<br><?php echo sub_str(htmlspecialchars($this->_var['goods_0_85555000_1427358742']['goods_style_name']),12); ?>
                 </li>
                 <?php if ($this->_foreach['hot_goods']['iteration'] % 2 == 0 && $this->_foreach['hot_goods']['iteration'] != $this->_foreach['hot_goods']['total']): ?></ul><ul><?php endif; ?>
                 <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>

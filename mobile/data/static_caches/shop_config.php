@@ -1,20 +1,20 @@
 <?php
 $data = array (
   'shop_name' => '圈美',
-  'shop_title' => '专属圈子的服装潮牌',
+  'shop_title' => '圈美-专属圈子的服装潮牌',
   'shop_desc' => '专属圈子的服装潮牌',
   'shop_keywords' => '校园文化衫,校园T恤,校园POLO衫',
   'shop_country' => '1',
   'shop_province' => '2',
   'shop_city' => '52',
   'shop_address' => '北京海淀区',
-  'qq' => '',
+  'qq' => '903949263',
   'ww' => '',
   'skype' => '',
   'ym' => '',
   'msn' => '',
-  'service_email' => '309826919@qq.com',
-  'service_phone' => '400-615-3008',
+  'service_email' => '903949263@qq.com',
+  'service_phone' => '',
   'shop_closed' => '0',
   'close_comment' => '',
   'shop_logo' => '',
@@ -23,8 +23,7 @@ $data = array (
   'shop_notice' => '欢迎光临圈美,我们的宗旨：诚信经营、服务客户！
 <MARQUEE onmouseover=this.stop() onmouseout=this.start() 
 scrollAmount=3><U><FONT color=red>
-<P>咨询电话021-57636637 13681660818 
-400-615-3008</P></FONT></U></MARQUEE>',
+<P>qq客服：903949263</P></FONT></U></MARQUEE>',
   'shop_reg_closed' => '0',
   'lang' => 'zh_cn',
   'icp_number' => '',

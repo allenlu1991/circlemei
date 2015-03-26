@@ -16,14 +16,14 @@
         </div>
         <div class="bd">
             <ul>
-                <?php $_from = $this->_var['group_buy_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'goods');$this->_foreach['hot_goods'] = array('total' => count($_from), 'iteration' => 0);
+                <?php $_from = $this->_var['group_buy_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'goods_0_86254100_1427358742');$this->_foreach['hot_goods'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['hot_goods']['total'] > 0):
-    foreach ($_from AS $this->_var['goods']):
+    foreach ($_from AS $this->_var['goods_0_86254100_1427358742']):
         $this->_foreach['hot_goods']['iteration']++;
 ?>
-                <li><a href="<?php echo $this->_var['goods']['url']; ?>"><img src="<?php echo $this->_var['site_url']; ?><?php echo $this->_var['goods']['thumb']; ?>" /></a>
+                <li><a href="<?php echo $this->_var['goods_0_86254100_1427358742']['url']; ?>"><img src="<?php echo $this->_var['site_url']; ?><?php echo $this->_var['goods_0_86254100_1427358742']['thumb']; ?>" /></a>
                 <br/>            
-                <span class="price_s"> <?php echo $this->_var['goods']['last_price']; ?> </span> <br><?php echo sub_str(htmlspecialchars($this->_var['goods']['goods_name']),12); ?>
+                <span class="price_s"> <?php echo $this->_var['goods_0_86254100_1427358742']['last_price']; ?> </span> <br><?php echo sub_str(htmlspecialchars($this->_var['goods_0_86254100_1427358742']['goods_name']),12); ?>
                 </li>
                 <?php if ($this->_foreach['hot_goods']['iteration'] % 3 == 0 && $this->_foreach['hot_goods']['iteration'] != $this->_foreach['hot_goods']['total']): ?></ul><ul><?php endif; ?>
                 <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
