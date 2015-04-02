@@ -1,16 +1,8 @@
 <?php
 
 /**
- * ECSHOP 动态内容函数库
- * ============================================================================
- * * 版权所有 2005-2012 上海商派网络科技有限公司，并保留所有权利。
- * 网站地址: http://www.ecshop.com；
- * ----------------------------------------------------------------------------
- * 这不是一个自由软件！您只能在不用于商业目的的前提下对程序代码进行修改和
- * 使用；不允许对程序代码以任何形式任何目的的再发布。
- * ============================================================================
- * $Author: liubo $
- * $Id: lib_insert.php 17217 2011-01-19 06:29:08Z liubo $
+ * 动态内容函数库
+ * $Author: allenlu $
 */
 
 if (!defined('IN_ECTOUCH'))
@@ -180,8 +172,11 @@ function insert_ads($arr)
         {
             case 0: // 图片广告
                 $src = (strpos($row['ad_code'], 'http://') === false && strpos($row['ad_code'], 'https://') === false) ? DATA_DIR . "/afficheimg/$row[ad_code]" : $row['ad_code'];
-                $ads[] = "<a href='affiche.php?ad_id=$row[ad_id]&amp;uri=" .urlencode($row["ad_link"]). "'
+                /*$ads[] = "<a href='affiche.php?ad_id=$row[ad_id]&amp;uri=" .urlencode($row["ad_link"]). "'
                 target='_blank'><img src='$src' width='" .$row['ad_width']. "' height='$row[ad_height]'
+                border='0' /></a>";*/
+                $ads[] = "<a href='affiche.php?ad_id=$row[ad_id]&amp;uri=" .urlencode($row["ad_link"]). "'
+                target='_self'><img src='$src' width='" .$row['ad_width']. "' height='$row[ad_height]'
                 border='0' /></a>";
                 break;
             case 1: // Flash

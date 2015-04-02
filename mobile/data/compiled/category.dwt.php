@@ -87,14 +87,14 @@
       </div>
       <?php endif; ?> 
       
-      <?php $_from = $this->_var['filter_attr_list']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'filter_attr_0_51618600_1427359944');if (count($_from)):
-    foreach ($_from AS $this->_var['filter_attr_0_51618600_1427359944']):
+      <?php $_from = $this->_var['filter_attr_list']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'filter_attr_0_94366100_1427447091');if (count($_from)):
+    foreach ($_from AS $this->_var['filter_attr_0_94366100_1427447091']):
 ?>
       <div class="attr brandAttr">
-        <div class="attrKey"><?php echo htmlspecialchars($this->_var['filter_attr_0_51618600_1427359944']['filter_attr_name']); ?></div>
+        <div class="attrKey"><?php echo htmlspecialchars($this->_var['filter_attr_0_94366100_1427447091']['filter_attr_name']); ?></div>
         <div class="attrValues">
           <ul class="av-collapse filter_list">
-            <?php $_from = $this->_var['filter_attr_0_51618600_1427359944']['attr_list']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'attr');if (count($_from)):
+            <?php $_from = $this->_var['filter_attr_0_94366100_1427447091']['attr_list']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'attr');if (count($_from)):
     foreach ($_from AS $this->_var['attr']):
 ?> 
             <?php if ($this->_var['attr']['selected']): ?>

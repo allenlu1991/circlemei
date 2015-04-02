@@ -60,9 +60,9 @@ TouchSlide({
         </div>
       </div>
     </div>
-  </header>
+  </header>-->
   
-  <div class="region row row_category">
+  <!--<div class="region row row_category">
     <ul class="flex flex-f-row">
     
 	  <?php $_from = $this->_var['navigator_list']['middle']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'nav');$this->_foreach['nav_middle_list'] = array('total' => count($_from), 'iteration' => 0);
@@ -81,8 +81,10 @@ if ($this->_foreach['nav_middle_list']['total'] > 0):
   </div>-->
   
 
-<?php echo $this->fetch('library/recommend_best.lbi'); ?>
-<?php echo $this->fetch('library/recommend_new.lbi'); ?>
+<?php $this->assign('ads_id','2'); ?><?php $this->assign('ads_num','1'); ?><?php echo $this->fetch('library/ad_position.lbi'); ?>
+<?php $this->assign('ads_id','2'); ?><?php $this->assign('ads_num','1'); ?><?php echo $this->fetch('library/ad_position.lbi'); ?>
+<?php $this->assign('ads_id','3'); ?><?php $this->assign('ads_num','1'); ?><?php echo $this->fetch('library/ad_position.lbi'); ?>
+<?php $this->assign('ads_id','3'); ?><?php $this->assign('ads_num','1'); ?><?php echo $this->fetch('library/ad_position.lbi'); ?>
 
 </div>
  

@@ -43,6 +43,9 @@ Template Type: type_0
 	.c-btn4 { color:#fff;border:0;height:2.5rem; line-height:2.5rem; width:100%;-webkit-box-flex:1;display:block;-webkit-user-select:none; font-size:0.9rem;background:#00D20D; text-align: center}
 	.hidden{display:none}
 	.wrap{ padding:0 0.7rem}
+	/*add*/
+	.wrap table img{width: 100%;height: auto;}
+	.wrap table{width: 100%;height: auto;}
 	.price_s{
 	color: #ec5151;
 	font-size:.675rem;
@@ -509,7 +512,8 @@ Template Type: type_0
 	float: left;
 	margin: 0.4rem 0.4rem 0 0;
 	padding: 0 0.6rem;font-size: 0.8rem;overflow:hidden}
-	.goodsItem{ width:10rem;  padding:0.6rem;}
+	/*.goodsItem{ width:10rem;  padding:0.6rem;}*/
+	.goodsItem{ width:100%;  padding:0rem;}
 	.goodsItem img{width: 100%;height:auto;}
 	.goodsItem del{height:1rem; line-height:1rem; font-size:0.4rem  }
 	/*页脚*/
@@ -589,7 +593,7 @@ Template Type: type_0
 	.crow{line-height:4.5rem;width:100%;background:#f4f4f4;clear:both;heigth:4.5rem}
 	.crow_row{ border-bottom:#d7d7d8 1px solid;line-height:4.5rem;width:100%; heigth:4.5rem}
 	.crow_icon{line-height:7.2rem;margin:0px 0.6rem;width:3.6rem;float:left;height:3.3rem}
-	.crow_icon img{width:3.6rem;height:3.3rem}
+	.crow_icon img{width:3.3rem;height:3.3rem}
 	.crow_title{line-height:4.5rem;float:left;margin-left:0.3rem}
 	.crow_item{text-align:center; line-height:2rem; margin:1.3rem auto; width:32%; font-family:"华文细黑"; background:#f4f4f4; float:left; height:2rem; color:#585858; font-size:0.9rem; border-left:#d7d7d7 1px solid}
 	.crow_item A{ margin:0px 0.3rem; text-overflow:clip; white-space:nowrap}
