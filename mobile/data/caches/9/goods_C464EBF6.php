@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:53:"F:/wamp/www/circlemei/mobile/themes/miqinew/goods.dwt";i:1;s:64:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/comments.lbi";i:2;s:67:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1427450693;s:8:"maketime";i:1427447093;}<!DOCTYPE html>
+<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:53:"F:/wamp/www/circlemei/mobile/themes/miqinew/goods.dwt";i:1;s:64:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/comments.lbi";i:2;s:67:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1427967945;s:8:"maketime";i:1427964345;}<!DOCTYPE html>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -131,12 +131,12 @@ function share_weixin_show(){
     <div class="scroller"> 
       <!--<div><a href="javascript:showPic()"><img src="images/201503/thumb_img/128_thumb_G_1427405468929.jpg"  alt="清华大学POLO衫" /></a></div>-->
       <ul>
-	  <li><a href="javascript:showPic()"><img alt="" src="http://172.25.112.1/circlemei/images/201503/source_img/128_G_1427405468387.jpg"/></a></li>
+	  <li><a href="javascript:showPic()"><img alt="" src="http://localhost/circlemei/images/201503/source_img/128_G_1427405468387.jpg"/></a></li>
          
          
-        <li><a href="javascript:showPic()"><img alt="" src="http://172.25.112.1/circlemei/images/201503/thumb_img/128_thumb_P_1427405468407.jpg"/></a></li>
+        <li><a href="javascript:showPic()"><img alt="" src="http://localhost/circlemei/images/201503/thumb_img/128_thumb_P_1427405468407.jpg"/></a></li>
          
-        <li><a href="javascript:showPic()"><img alt="" src="http://172.25.112.1/circlemei/images/201503/thumb_img/128_thumb_P_1427405042507.jpg"/></a></li>
+        <li><a href="javascript:showPic()"><img alt="" src="http://localhost/circlemei/images/201503/thumb_img/128_thumb_P_1427405042507.jpg"/></a></li>
          
               </ul>
     </div>
@@ -246,7 +246,7 @@ function showPic(){
             <h4>商品加入购物车</h4>
             <span class="ico_08" onclick="closeDiv()"><a href="javascript:"></a></span> </div>
           <div id="main">
-            <div id="left"> <img width="115" height="115" src="http://172.25.112.1/circlemei/images/201503/source_img/128_G_1427405468387.jpg"> </div>
+            <div id="left"> <img width="115" height="115" src="http://localhost/circlemei/images/201503/source_img/128_G_1427405468387.jpg"> </div>
             <div id="right">
               <p>清华大学POLO衫</p>
               <span> 加入数量： <b id="cartNum"></b></span> <span> 总计金额： <b id="cartPrice"></b></span> 
@@ -299,7 +299,8 @@ function tab(id){
   <div id="tab2" class="hidden">
     <div class="wrap">
       <div class="blank2"></div>
-      <script type="text/javascript" src="data/static/js/transport.js"></script><script type="text/javascript" src="data/static/js/utils.js"></script><div id="ECS_COMMENT"> 554fcae493e564ee0dc75bdf2ebf94cacomments|a:3:{s:4:"name";s:8:"comments";s:4:"type";i:0;s:2:"id";i:128;}554fcae493e564ee0dc75bdf2ebf94ca</div> </div>
+      <script type="text/javascript" src="data/static/js/transport.js"></script><script type="text/javascript" src="data/static/js/utils.js"></script><div id="ECS_COMMENT"> 554fcae493e564ee0dc75bdf2ebf94cacomments|a:3:{s:4:"name";s:8:"comments";s:4:"type";i:0;s:2:"id";i:128;}554fcae493e564ee0dc75bdf2ebf94ca</div>
+ </div>
   </div>
   <div id="tab3" class="hidden">
     <div class="wrap">
@@ -320,7 +321,7 @@ function tab(id){
     <a href="./" class="homeBtn"> <span class="ico_05"> </span> </a> <a href="#top" class="gotop"> <span class="ico_06"> </span> <p> TOP </p>
     </a>
   </div>-->
-  <!--<p class="link region"> <a href="http://172.25.112.1/circlemei/?computer=1"> 电脑版 </a> <a href="./"> 触屏版 </a> <a href="#"> 苹果客户端 </a> <a class="#"> Android客户端 </a> </p>-->
+  <!--<p class="link region"> <a href="http://localhost/circlemei/?computer=1"> 电脑版 </a> <a href="./"> 触屏版 </a> <a href="#"> 苹果客户端 </a> <a class="#"> Android客户端 </a> </p>-->
   <p class="region"> 
      
     &copy; 2015 圈美 版权所有，并保留所有权利。 </p>
@@ -405,8 +406,8 @@ var minute = "分钟";
 var second = "秒";
 var end = "结束";
 var goodsId = 128;
-var now_time = 1427418293;
-var imgUrl = "http://172.25.112.1/circlemei/images/201503/source_img/128_G_1427405468387.jpg"; //缩略图地址
+var now_time = 1427935545;
+var imgUrl = "http://localhost/circlemei/images/201503/source_img/128_G_1427405468387.jpg"; //缩略图地址
 var lineLink = ""; //分享的链接地址
 var descContent = "清华大学POLO衫_POLO衫_清华大学_圈美-专属圈子的服装潮牌"; //摘要信息
 var shareTitle = "清华大学POLO衫_POLO衫_清华大学_圈美-专属圈子的服装潮牌"; //分享的标题

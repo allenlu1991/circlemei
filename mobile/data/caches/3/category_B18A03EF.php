@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:56:"F:/wamp/www/circlemei/mobile/themes/miqinew/category.dwt";i:1;s:66:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/goods_list.lbi";i:2;s:67:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1427450691;s:8:"maketime";i:1427447091;}<!DOCTYPE html>
+<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:56:"F:/wamp/www/circlemei/mobile/themes/miqinew/category.dwt";i:1;s:66:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/goods_list.lbi";i:2;s:67:"F:/wamp/www/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1427968018;s:8:"maketime";i:1427964418;}<!DOCTYPE html>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -16,15 +16,15 @@
 <div id="page" style="right: 0px; left: 0px; display: block;">
   <header id="header" style="z-index:1">
     <div class="header_l"> <a class="ico_10" href="cat_all.php"> 返回 </a> </div>
-    <div id="search_box2" >
+    <!--<div id="search_box2" >
       <div class="search_box" >
         <form method="post" action="search.php" name="searchForm" id="searchForm_id">
           <input placeholder="请输入商品名称" name="keywords" type="text" id="keywordBox" />
           <button class="ico_07" type="submit" onclick="return check('keywordBox')"> </button>
         </form>
       </div>
-    </div>
-    <div class="header_r header_search"> <a class="switchBtn switchBtn-album" href="javascript:void(0);"  onclick="changeCl(this)" style="opacity: 1;"> 切换 </a> </div>
+    </div>-->
+    <div class="header_r header_search"> <a class="switchBtn switchBtn-grid" href="javascript:void(0);"  onclick="changeCl(this)" style="opacity: 1;"> 切换 </a> </div>
   </header>
   <div class="filter" style="position:static; top:0px; width:100%;">
   <form method="GET" class="sort" name="listform">
@@ -47,7 +47,9 @@
   </form>
 </div>
 <form name="compareForm" action="compare.php" method="post" onSubmit="return compareGoods(this);">
-    <div class="srp album flex-f-row" id="J_ItemList" style="opacity:1;"> 
+    <!--<div class="srp album flex-f-row" id="J_ItemList" style="opacity:1;">-->
+  
+  <div class="srp grid flex-f-row" id="J_ItemList" style="opacity:1;"> 
     <div class="product flex_in single_item">
       <div class="pro-inner"></div>
     </div>
@@ -65,7 +67,7 @@
     <a href="./" class="homeBtn"> <span class="ico_05"> </span> </a> <a href="#top" class="gotop"> <span class="ico_06"> </span> <p> TOP </p>
     </a>
   </div>-->
-  <!--<p class="link region"> <a href="http://172.25.112.1/circlemei/?computer=1"> 电脑版 </a> <a href="./"> 触屏版 </a> <a href="#"> 苹果客户端 </a> <a class="#"> Android客户端 </a> </p>-->
+  <!--<p class="link region"> <a href="http://localhost/circlemei/?computer=1"> 电脑版 </a> <a href="./"> 触屏版 </a> <a href="#"> 苹果客户端 </a> <a class="#"> Android客户端 </a> </p>-->
   <p class="region"> 
      
     &copy; 2015 圈美 版权所有，并保留所有权利。 </p>
