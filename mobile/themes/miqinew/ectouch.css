@@ -608,9 +608,9 @@ Template Type: type_0
 
 	/* 三种样式切换 */
 	.switchBtn{-webkit-background-size:1.2rem 1.2rem;-moz-background-size:1.2rem 1.2rem;background-size:1.2rem 1.2rem; }
-	.switchBtn-list{background:url(images/sort1.png) no-repeat 50% 50%;opacity:1}
-	.switchBtn-album{background:url(images/sort2.png) no-repeat 50% 50%;}
-	.switchBtn-grid{background:url(images/sort3.png) no-repeat 50% 50%;}
+	.switchBtn-list{background:url(images/sort1.png) no-repeat 50% 50%;opacity:1;background-size: 1.5rem 1.5rem}
+	.switchBtn-album{background:url(images/sort2.png) no-repeat 50% 50%;background-size: 1.5rem 1.5rem}
+	.switchBtn-grid{background:url(images/sort3.png) no-repeat 50% 50%;background-size: 1.5rem 1.5rem}
 	/* 头部的条件筛选样式 */
 	.filter{width:100%;text-align:center; height:2.4rem;background:#fff;}
 	.filter ul{display:table;width:100%;margin:0;padding:0;border-collapse:collapse}

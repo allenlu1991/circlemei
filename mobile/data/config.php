@@ -1,7 +1,7 @@
-<?php
+ï»¿<?php
 
 // +----------------------------------------------------------------------
-// | EcTouch [ ×¨×¢ÒÆ¶¯µçÉÌ: ÉÌ´´ÍøÂç¿Æ¼¼ ]
+// | EcTouch [ ä¸“æ³¨ç§»åŠ¨ç”µå•†: å•†åˆ›ç½‘ç»œç§‘æŠ€ ]
 // +----------------------------------------------------------------------
 // | Copyright (c) 2014 http://ectouch.cn All rights reserved.
 // +----------------------------------------------------------------------
@@ -14,45 +14,45 @@ if (!defined('IN_ECTOUCH')){
     die('Hacking attempt');
 }
 
-//Ä¬ÈÏÅäÖÃ
+//é»˜è®¤é…ç½®
 require(dirname(__FILE__) . '/convention.php');
 
-//ÍøÕ¾È«¾ÖÅäÖÃ
-$config['site_name'] = 'ÉÏº£ÉÌ´´ÍøÂç¿Æ¼¼ÓĞÏŞ¹«Ë¾'; //Õ¾µãÃû³Æ
-$config['site_url']="http://".$_SERVER['HTTP_HOST']."/circlemei/"; //µçÄÔ°æµØÖ·
-$config['site_email'] = 'admin@ectouch.cn'; //¹ÜÀíÔ±ÓÊÏä
-$config['site_phone'] = '021-68686868'; //¹«Ë¾µç»°
-$config['site_fax'] = '021-68686868-801'; //´«ÕæºÅÂë
-$config['site_address'] = 'ÉÏº£ÊĞÆÕÍÓÇøÖĞÉ½±±Â·'; //¹«Ë¾µØÖ·
-$config['site_postcode'] = '200062'; //¹«Ë¾ÓÊ±à
-$config['site_image_maxwidth'] = '600'; //ÄÚÈİÍ¼Æ¬×î´ó¿í¶È
-$config['site_summary_length'] = '360'; //ÄÚÈİÕªÒª³¤¶È
-$config['site_copyright'] = 'Copyright ? 2014 ÉÏº£ÉÌ´´ÍøÂç¿Æ¼¼ÓĞÏŞ¹«Ë¾, All Rights Reserved'; //°æÈ¨ĞÅÏ¢
-$config['site_statcode'] = ''; //µÚÈı·½Í³¼Æ´úÂë
-$config['site_icp'] = '»¦ICP±¸10000ºÅ1'; //ICP ±¸°¸ĞÅÏ¢
-$config['site_title'] = 'ÉÏº£ÉÌ´´ÍøÂç¿Æ¼¼ÓĞÏŞ¹«Ë¾'; //Ê×Ò³±êÌâ
-$config['site_keywords'] = ''; //Õ¾µã¹Ø¼ü×Ö
-$config['site_description'] = ''; //Õ¾µãÃèÊö
-$config['site_closed'] = false; //ÊÇ·ñ¹Ø±ÕÍøÕ¾
-$config['site_closedreason'] = 'EcTouchÔİÎ´¿ª·Å£¬Çë·ÃÎÊ<a href="'.$config['site_url'].'">µçÄÔ°æ</a>¡£'; //¹Ø±ÕÍøÕ¾µÄÔ­Òò
-$config['site_themes'] = 'default'; //Ä£°åÖ÷Ìâ£¬Ò»°ã²»ĞèÒªĞŞ¸Ä
-//$config['site_pagebreak'] = '_baidu_page_break_tag_'; //ÄÚÈİ·ÖÒ³±êÇ©
-$config['site_pagebreak'] = '&lt;hr style=&quot;page-break-after:always;&quot; class=&quot;ke-pagebreak&quot; /&gt;'; //ÄÚÈİ·ÖÒ³±êÇ©
-$config['site_attachment'] = 'data/attachment/'; //¸½¼şÄ¿Â¼
-$config['site_pagesize'] = 12; //ÍøÕ¾·ÖÒ³ÊıÁ¿
-//ÓÊÏä·şÎñÆ÷ÅäÖÃ
-$config['SMTP_HOST'] = 'smtp.163.com'; //smtp·şÎñÆ÷µØÖ·
-$config['SMTP_PORT'] = '25'; //smtp·şÎñÆ÷¶Ë¿Ú
-$config['SMTP_SSL'] = false; //ÊÇ·ñÆôÓÃSSL°²È«Á¬½Ó£¬gmailĞèÒªÆôÓÃsll°²È«Á¬½Ó
-$config['SMTP_USERNAME'] = 'win8mail@163.com'; //smtp·şÎñÆ÷ÕÊºÅ£¬Èç£ºÄãµÄqqÓÊÏä
-$config['SMTP_PASSWORD'] = '125243230!'; //smtp·şÎñÆ÷ÕÊºÅÃÜÂë£¬ÈçÄãµÄqqÓÊÏäÃÜÂë
-$config['SMTP_FROM_TO'] = 'win8mail@163.com'; //·¢¼şÈËÓÊ¼şµØÖ·
-$config['SMTP_FROM_NAME'] = 'ÏµÍ³ÓÊ¼ş'; //·¢¼şÈËĞÕÃû
-$config['SMTP_CHARSET'] = 'utf-8'; //·¢ËÍµÄÓÊ¼şÄÚÈİ±àÂë
-//EcTouch°æ±¾
-$config['ver'] = '0.1'; //°æ±¾ºÅ
-$config['ver_name'] = 'ÉÌ´´ÍøÂç 0.1 ²âÊÔ°æ'; //°æ±¾Ãû³Æ
-$config['ver_date'] = '201101281800'; //°æ±¾Ê±¼ä
-$config['ver_author'] = 'ÉÌ´´ÍøÂç';
+//ç½‘ç«™å…¨å±€é…ç½®
+$config['site_name'] = 'ä¸Šæµ·å•†åˆ›ç½‘ç»œç§‘æŠ€æœ‰é™å…¬å¸'; //ç«™ç‚¹åç§°
+$config['site_url']="http://".$_SERVER['HTTP_HOST']."/circlemei/"; //ç”µè„‘ç‰ˆåœ°å€
+$config['site_email'] = 'admin@ectouch.cn'; //ç®¡ç†å‘˜é‚®ç®±
+$config['site_phone'] = '021-68686868'; //å…¬å¸ç”µè¯
+$config['site_fax'] = '021-68686868-801'; //ä¼ çœŸå·ç 
+$config['site_address'] = 'ä¸Šæµ·å¸‚æ™®é™€åŒºä¸­å±±åŒ—è·¯'; //å…¬å¸åœ°å€
+$config['site_postcode'] = '200062'; //å…¬å¸é‚®ç¼–
+$config['site_image_maxwidth'] = '600'; //å†…å®¹å›¾ç‰‡æœ€å¤§å®½åº¦
+$config['site_summary_length'] = '360'; //å†…å®¹æ‘˜è¦é•¿åº¦
+$config['site_copyright'] = 'Copyright ? 2014 ä¸Šæµ·å•†åˆ›ç½‘ç»œç§‘æŠ€æœ‰é™å…¬å¸, All Rights Reserved'; //ç‰ˆæƒä¿¡æ¯
+$config['site_statcode'] = ''; //ç¬¬ä¸‰æ–¹ç»Ÿè®¡ä»£ç 
+$config['site_icp'] = 'æ²ªICPå¤‡10000å·1'; //ICP å¤‡æ¡ˆä¿¡æ¯
+$config['site_title'] = 'ä¸Šæµ·å•†åˆ›ç½‘ç»œç§‘æŠ€æœ‰é™å…¬å¸'; //é¦–é¡µæ ‡é¢˜
+$config['site_keywords'] = ''; //ç«™ç‚¹å…³é”®å­—
+$config['site_description'] = ''; //ç«™ç‚¹æè¿°
+$config['site_closed'] = false; //æ˜¯å¦å…³é—­ç½‘ç«™
+$config['site_closedreason'] = 'EcTouchæš‚æœªå¼€æ”¾ï¼Œè¯·è®¿é—®<a href="'.$config['site_url'].'">ç”µè„‘ç‰ˆ</a>ã€‚'; //å…³é—­ç½‘ç«™çš„åŸå› 
+$config['site_themes'] = 'default'; //æ¨¡æ¿ä¸»é¢˜ï¼Œä¸€èˆ¬ä¸éœ€è¦ä¿®æ”¹
+//$config['site_pagebreak'] = '_baidu_page_break_tag_'; //å†…å®¹åˆ†é¡µæ ‡ç­¾
+$config['site_pagebreak'] = '&lt;hr style=&quot;page-break-after:always;&quot; class=&quot;ke-pagebreak&quot; /&gt;'; //å†…å®¹åˆ†é¡µæ ‡ç­¾
+$config['site_attachment'] = 'data/attachment/'; //é™„ä»¶ç›®å½•
+$config['site_pagesize'] = 12; //ç½‘ç«™åˆ†é¡µæ•°é‡
+//é‚®ç®±æœåŠ¡å™¨é…ç½®
+$config['SMTP_HOST'] = 'smtp.163.com'; //smtpæœåŠ¡å™¨åœ°å€
+$config['SMTP_PORT'] = '25'; //smtpæœåŠ¡å™¨ç«¯å£
+$config['SMTP_SSL'] = false; //æ˜¯å¦å¯ç”¨SSLå®‰å…¨è¿æ¥ï¼Œgmailéœ€è¦å¯ç”¨sllå®‰å…¨è¿æ¥
+$config['SMTP_USERNAME'] = 'win8mail@163.com'; //smtpæœåŠ¡å™¨å¸å·ï¼Œå¦‚ï¼šä½ çš„qqé‚®ç®±
+$config['SMTP_PASSWORD'] = '125243230!'; //smtpæœåŠ¡å™¨å¸å·å¯†ç ï¼Œå¦‚ä½ çš„qqé‚®ç®±å¯†ç 
+$config['SMTP_FROM_TO'] = 'win8mail@163.com'; //å‘ä»¶äººé‚®ä»¶åœ°å€
+$config['SMTP_FROM_NAME'] = 'ç³»ç»Ÿé‚®ä»¶'; //å‘ä»¶äººå§“å
+$config['SMTP_CHARSET'] = 'utf-8'; //å‘é€çš„é‚®ä»¶å†…å®¹ç¼–ç 
+//EcTouchç‰ˆæœ¬
+$config['ver'] = '0.1'; //ç‰ˆæœ¬å·
+$config['ver_name'] = 'å•†åˆ›ç½‘ç»œ 0.1 æµ‹è¯•ç‰ˆ'; //ç‰ˆæœ¬åç§°
+$config['ver_date'] = '201101281800'; //ç‰ˆæœ¬æ—¶é—´
+$config['ver_author'] = 'å•†åˆ›ç½‘ç»œ';
 $config['ver_email'] = 'support@ectouch.cn';
 $config['ver_url'] = 'http://www.ectouch.cn/';

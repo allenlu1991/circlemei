@@ -22,7 +22,9 @@
 <?php if ($this->_var['category'] > 0): ?>
 <form name="compareForm" action="compare.php" method="post" onSubmit="return compareGoods(this);">
   <?php endif; ?>
-  <div class="srp album flex-f-row" id="J_ItemList" style="opacity:1;"> 
+  <!--<div class="srp album flex-f-row" id="J_ItemList" style="opacity:1;">-->
+  
+  <div class="srp grid flex-f-row" id="J_ItemList" style="opacity:1;"> 
     <div class="product flex_in single_item">
       <div class="pro-inner"></div>
     </div>
