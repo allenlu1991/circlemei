@@ -245,6 +245,7 @@ if (!defined('INIT_NO_USERS')) {
     if (isset($smarty)) {
         $smarty->assign('ecs_session', $_SESSION);
     }
+
 }
 
 if ((DEBUG_MODE & 1) == 1) {
@@ -258,7 +259,9 @@ if ((DEBUG_MODE & 4) == 4) {
 
 /* 判断是否支持 Gzip 模式 */
 if (!defined('INIT_NO_SMARTY') && gzip_enabled()) {
-    ob_start('ob_gzhandler');
+    //ob_start('ob_gzhandler');
+    //var_dump(ob_start('ob_gzhandler'));
+//exit;
 } else {
     ob_start();
 }
