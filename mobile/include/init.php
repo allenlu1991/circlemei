@@ -259,9 +259,7 @@ if ((DEBUG_MODE & 4) == 4) {
 
 /* 判断是否支持 Gzip 模式 */
 if (!defined('INIT_NO_SMARTY') && gzip_enabled()) {
-    //ob_start('ob_gzhandler');
-    //var_dump(ob_start('ob_gzhandler'));
-//exit;
+    ob_start('ob_gzhandler');
 } else {
     ob_start();
 }
