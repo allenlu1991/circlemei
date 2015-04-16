@@ -43,4 +43,7 @@ Temporary Items
 .apdisk
 /data/config.php
 /mobile/data/caches
+/mobile/data/compiled
 /mobile/data/config.php
+/temp/caches
+/temp/compiled
