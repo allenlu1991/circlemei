@@ -5,23 +5,23 @@
   <a href="flow.php">
 <div class="shopBody" id="shopBody">
 <ul>
- <?php $_from = $this->_var['goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'goods_0_91856000_1429089470');$this->_foreach['goods'] = array('total' => count($_from), 'iteration' => 0);
+ <?php $_from = $this->_var['goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'goods_0_37089000_1429164708');$this->_foreach['goods'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['goods']['total'] > 0):
-    foreach ($_from AS $this->_var['goods_0_91856000_1429089470']):
+    foreach ($_from AS $this->_var['goods_0_37089000_1429164708']):
         $this->_foreach['goods']['iteration']++;
 ?>
  <li class="shopWhite">
 
  <div class="shopLi_img">
- <a href="<?php echo $this->_var['goods_0_91856000_1429089470']['url']; ?>"><img src="<?php echo $this->_var['goods_0_91856000_1429089470']['goods_thumb']; ?>" style="width:43px; height:43px;" alt="<?php echo $this->_var['goods_0_91856000_1429089470']['goods_name']; ?>"></a>
+ <a href="<?php echo $this->_var['goods_0_37089000_1429164708']['url']; ?>"><img src="<?php echo $this->_var['goods_0_37089000_1429164708']['goods_thumb']; ?>" style="width:43px; height:43px;" alt="<?php echo $this->_var['goods_0_37089000_1429164708']['goods_name']; ?>"></a>
   </div>
   <div class="shopLi_txt">
- <p><a  href="<?php echo $this->_var['goods_0_91856000_1429089470']['url']; ?>"><?php echo $this->_var['goods_0_91856000_1429089470']['short_name']; ?></a></p>
+ <p><a  href="<?php echo $this->_var['goods_0_37089000_1429164708']['url']; ?>"><?php echo $this->_var['goods_0_37089000_1429164708']['short_name']; ?></a></p>
  
  
-<p class="shopLi_pink"><span><?php echo $this->_var['goods_0_91856000_1429089470']['goods_price']; ?></span><span style=" color:#999">×<?php echo $this->_var['goods_0_91856000_1429089470']['goods_number']; ?></span></p> 
+<p class="shopLi_pink"><span><?php echo $this->_var['goods_0_37089000_1429164708']['goods_price']; ?></span><span style=" color:#999">×<?php echo $this->_var['goods_0_37089000_1429164708']['goods_number']; ?></span></p> 
  </div>
-<div class="shopLi_del"><a  href="javascript:" onClick="deleteCartGoods(<?php echo $this->_var['goods_0_91856000_1429089470']['rec_id']; ?>)">删除</a></div>
+<div class="shopLi_del"><a  href="javascript:" onClick="deleteCartGoods(<?php echo $this->_var['goods_0_37089000_1429164708']['rec_id']; ?>)">删除</a></div>
 
 
 </li>

@@ -1,16 +1,16 @@
-<?php exit;?>a:3:{s:8:"template";a:19:{i:0;s:57:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/index.dwt";i:1;s:77:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/page_header_index.lbi";i:2;s:79:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/category_tree_index.lbi";i:3;s:68:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/index_ad.lbi";i:4;s:70:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/index_ad_r.lbi";i:5;s:70:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/index_ad_b.lbi";i:6;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/pinpaiqiehuan.lbi";i:7;s:69:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/group_buy.lbi";i:8;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/recommend_hot.lbi";i:9;s:79:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/recommend_promotion.lbi";i:10;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/recommend_new.lbi";i:11;s:74:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/recommend_best.lbi";i:12;s:69:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/cat_goods.lbi";i:13;s:65:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/top10.lbi";i:14;s:70:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/email_list.lbi";i:15;s:71:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/order_query.lbi";i:16;s:75:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/huiyuanchongzhi.lbi";i:17;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/index_history.lbi";i:18;s:71:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429114181;s:8:"maketime";i:1429110581;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:19:{i:0;s:57:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/index.dwt";i:1;s:77:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/page_header_index.lbi";i:2;s:79:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/category_tree_index.lbi";i:3;s:68:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/index_ad.lbi";i:4;s:70:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/index_ad_r.lbi";i:5;s:70:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/index_ad_b.lbi";i:6;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/pinpaiqiehuan.lbi";i:7;s:69:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/group_buy.lbi";i:8;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/recommend_hot.lbi";i:9;s:79:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/recommend_promotion.lbi";i:10;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/recommend_new.lbi";i:11;s:74:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/recommend_best.lbi";i:12;s:69:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/cat_goods.lbi";i:13;s:65:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/top10.lbi";i:14;s:70:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/email_list.lbi";i:15;s:71:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/order_query.lbi";i:16;s:75:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/huiyuanchongzhi.lbi";i:17;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/index_history.lbi";i:18;s:71:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429168308;s:8:"maketime";i:1429164708;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="Keywords" content="圈美,校园文化衫,校园T恤,校园POLO衫" />
-<meta name="Description" content="专属圈子的服装潮牌" />
+<meta name="Description" content="圈美—不张扬，不妥协，不随众，让每一个专属圈子有一件能穿，有趣的衣服。" />
 <meta property="qc:admins" content="54000064547530640331763757" />
-<title>专属圈子的服装潮牌</title>
+<title>圈美-专属圈子的服装品牌</title>
 <link rel="shortcut icon" href="favicon.ico" />
 <link rel="icon" href="animated_favicon.gif" type="image/gif" />
 <link href="themes/miqinew/style.css" rel="stylesheet" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS|专属圈子的服装潮牌" href="feed.php" />
+<link rel="alternate" type="application/rss+xml" title="RSS|圈美-专属圈子的服装品牌" href="feed.php" />
 <script type="text/javascript" src="js/common.js"></script><script type="text/javascript" src="js/index.js"></script></head>
 <body>
 <script type="text/javascript">
@@ -156,8 +156,7 @@ catch (e) {
       </div>
     </div>
   </div>
-</div>
-<div class="block">
+</div><div class="block">
   <div class="content">
     <div class="contentBody">
       <div class="mainBody"> <div class="left_nav">
@@ -371,8 +370,7 @@ catch (e) {
         </div>
         
         
-      </div>        <div class="right_banner">  
-<div id="slideBox" class="slideBox">
+      </div>        <div class="right_banner"> <div id="slideBox" class="slideBox">
   <div class="hd">
     <ul>
       <li class="first"> </li>
@@ -395,8 +393,7 @@ catch (e) {
 </div>
 <script type="text/javascript">
 		jQuery(".slideBox").slide({mainCell:".bd ul",effect:"left",trigger:"click"});
-		</script> 
-          <div class="banner_ico">
+		</script>         <div class="banner_ico">
                 	<a href="#" target="_blank"></a>
                     <a href="#" target="_blank"></a>
                     <a href="#" target="_blank"></a>
@@ -421,11 +418,9 @@ catch (e) {
   <div class="big_logo" id="banner_04"> <a href="#" target="_blank"><img src="themes/miqinew/images/b4.jpg" border="0"></a>
     <div class="big_txt" > <a href="#" target="_blank"><img src="themes/miqinew/images/b4_1.png" border="0"></a> </div>
   </div>
-</div>
- </div>
+</div> </div>
       </div>
-      <div class="mainBody"> 
-<div class="slideTxtBox">
+      <div class="mainBody"> <div class="slideTxtBox">
   <div class="hd">
     <ul>
       <li> <b>欧美品牌</b>
@@ -498,8 +493,7 @@ catch (e) {
 </div>
 <script type="text/javascript">
 		jQuery(".slideTxtBox").slide();
-		</script> 
- </div>
+		</script> </div>
       <div class="mainBody"> <div class="picScroll-left">
   <div class="hd">
     <div class="title_txt"> <img src="themes/miqinew/images/title_txt01.jpg" border="0"> </div>
@@ -866,7 +860,6 @@ catch (e) {
       <div class="sucess_joinCart" id="addtocartdialog_retui_122_new">
 </div>
 </dd>
- 
  
               
    <dd class="hot_dd02" >
@@ -1990,8 +1983,7 @@ function check_email()
     return false;
   }
 }
-</script>
-<script>var invalid_order_sn = "无效订单号"</script>
+</script><script>var invalid_order_sn = "无效订单号"</script>
 <div class="f_l email">
  
   <div class="batch_title"><p>订单查询</p></div>
@@ -2015,8 +2007,7 @@ function check_email()
        
        
       
-      
-<div class="vip_right">
+      <div class="vip_right">
   <div class="vip_title">
     <p>会员充值<span>（享受VIP 专属7大特权）</span></p>
   </div>
@@ -2067,8 +2058,7 @@ function check_email()
 		jQuery(".slideTxtBox2").slide();
 		</script>
   <div class="vip_btn"> <a href="/user.php?act=register"></a> </div>
-</div>
- 
+</div> 
       
     </div>
   </div>
@@ -2222,14 +2212,8 @@ function clear_history_Response(res)
   <div class="text"> &copy; 2005-2015 圈美 版权所有，并保留所有权利。<br />
     海淀区  
      
-    Tel: 400-615-3008 
      
      
-    E-mail: 903949263@qq.com<br />
-     
-     
-     
-    <a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=903949263&amp;Site=圈美&amp;Menu=yes" target="_blank"><img src="http://wpa.qq.com/pa?p=1:903949263:4" height="16" border="0" alt="QQ" /> 903949263</a> 
      
      
      

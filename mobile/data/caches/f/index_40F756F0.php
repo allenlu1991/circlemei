@@ -1,9 +1,9 @@
-<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:64:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/index.dwt";i:1;s:78:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/library/ad_position.lbi";i:2;s:78:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429113701;s:8:"maketime";i:1429110101;}<!DOCTYPE html>
+<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:64:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/index.dwt";i:1;s:78:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/library/ad_position.lbi";i:2;s:78:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429171611;s:8:"maketime";i:1429168011;}<!DOCTYPE html>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
 <meta charset="utf-8" />
-<title>圈美-专属圈子的服装潮牌 触屏版</title>
+<title>圈美-专属圈子的服装品牌 触屏版</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
