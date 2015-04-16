@@ -1,15 +1,15 @@
 <div class="left_nav">
         <div class="leftNav" id="J_mainCata">
           <ul>
-            <?php $_from = $this->_var['categories_pro']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'cat_0_88336500_1427642199');$this->_foreach['categories_pro'] = array('total' => count($_from), 'iteration' => 0);
+            <?php $_from = $this->_var['categories_pro']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'cat_0_87775800_1429089470');$this->_foreach['categories_pro'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['categories_pro']['total'] > 0):
-    foreach ($_from AS $this->_var['cat_0_88336500_1427642199']):
+    foreach ($_from AS $this->_var['cat_0_87775800_1429089470']):
         $this->_foreach['categories_pro']['iteration']++;
 ?>
             <li>
-              <p class="leftNav_p0<?php echo $this->_foreach['categories_pro']['iteration']; ?>"><a class="a1" href="<?php echo $this->_var['cat_0_88336500_1427642199']['url']; ?>" title="<?php echo htmlspecialchars($this->_var['cat_0_88336500_1427642199']['name']); ?>"><?php echo htmlspecialchars($this->_var['cat_0_88336500_1427642199']['name']); ?></a></p>
+              <p class="leftNav_p0<?php echo $this->_foreach['categories_pro']['iteration']; ?>"><a class="a1" href="<?php echo $this->_var['cat_0_87775800_1429089470']['url']; ?>" title="<?php echo htmlspecialchars($this->_var['cat_0_87775800_1429089470']['name']); ?>"><?php echo htmlspecialchars($this->_var['cat_0_87775800_1429089470']['name']); ?></a></p>
               <div class="childer_hide" >
-                <?php $_from = $this->_var['cat_0_88336500_1427642199']['cat_id']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'child');if (count($_from)):
+                <?php $_from = $this->_var['cat_0_87775800_1429089470']['cat_id']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'child');if (count($_from)):
     foreach ($_from AS $this->_var['child']):
 ?>
                 <?php $_from = $this->_var['child']['cat_id']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'childer');if (count($_from)):
@@ -25,7 +25,7 @@ if ($this->_foreach['categories_pro']['total'] > 0):
 
           <div class="leftSubNav_list" >
             <div class="leftSubNav_left">
-			          <?php $_from = $this->_var['cat_0_88336500_1427642199']['cat_id']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'child');if (count($_from)):
+			          <?php $_from = $this->_var['cat_0_87775800_1429089470']['cat_id']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'child');if (count($_from)):
     foreach ($_from AS $this->_var['child']):
 ?>
               <div class="leftSubNav_left_txt none">
@@ -44,7 +44,7 @@ if ($this->_foreach['categories_pro']['total'] > 0):
 			
             <div class="leftSubNav_list_right">
               <dl>
-                <?php $_from = $this->_var['cat_0_88336500_1427642199']['brands']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'brand');if (count($_from)):
+                <?php $_from = $this->_var['cat_0_87775800_1429089470']['brands']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'brand');if (count($_from)):
     foreach ($_from AS $this->_var['brand']):
 ?>
                 <dd>

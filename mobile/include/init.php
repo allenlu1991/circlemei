@@ -245,6 +245,7 @@ if (!defined('INIT_NO_USERS')) {
     if (isset($smarty)) {
         $smarty->assign('ecs_session', $_SESSION);
     }
+
 }
 
 if ((DEBUG_MODE & 1) == 1) {
