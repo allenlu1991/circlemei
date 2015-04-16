@@ -9,12 +9,12 @@
   </div>
   <div class="bd">
     <ul>
-    <?php $_from = $this->_var['flash']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'flash_0_87993800_1429089470');$this->_foreach['myflash'] = array('total' => count($_from), 'iteration' => 0);
+    <?php $_from = $this->_var['flash']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'flash_0_98080400_1429167971');$this->_foreach['myflash'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['myflash']['total'] > 0):
-    foreach ($_from AS $this->_var['flash_0_87993800_1429089470']):
+    foreach ($_from AS $this->_var['flash_0_98080400_1429167971']):
         $this->_foreach['myflash']['iteration']++;
 ?>
-  <li><A href="<?php echo $this->_var['flash_0_87993800_1429089470']['url']; ?>" target=_blank><IMG height=265 alt="" src="<?php echo $this->_var['flash_0_87993800_1429089470']['src']; ?>" width=725></A> </li>
+  <li><A href="<?php echo $this->_var['flash_0_98080400_1429167971']['url']; ?>" target=_blank><IMG height=265 alt="" src="<?php echo $this->_var['flash_0_98080400_1429167971']['src']; ?>" width=725></A> </li>
  <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
       
     </ul>
