@@ -20,7 +20,7 @@
   <header id="header" >
 <!--<div class="header_l"> <a class="ico_02" href="#menu"> 菜单栏 </a> </div>-->
     <h1> <?php echo $this->_var['shop_name']; ?> </h1>
-    <div class="header_r"> <a class="ico_01" href="flow.php"> 购物车 </a> </div>
+<!--<div class="header_r"> <a class="ico_01" href="flow.php"> 购物车 </a> </div>-->
   </header>
 </div>
  
