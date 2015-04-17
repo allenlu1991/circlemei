@@ -20,7 +20,7 @@ require(dirname(__FILE__) . '/convention.php');
 //网站全局配置
 $config['site_name'] = '上海商创网络科技有限公司'; //站点名称
 //$config['site_url']="http://".$_SERVER['HTTP_HOST']."/"; //电脑版地址
-$config['site_url']="http://circlemei.wawow.me/"; //电脑版地址
+$config['site_url']="http://www.circlemei.com/"; //电脑版地址
 $config['site_email'] = 'admin@ectouch.cn'; //管理员邮箱
 $config['site_email'] = 'admin@ectouch.cn'; //管理员邮箱
 $config['site_phone'] = '021-68686868'; //公司电话
