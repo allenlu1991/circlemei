@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:64:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/index.dwt";i:1;s:78:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/library/ad_position.lbi";i:2;s:78:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429238706;s:8:"maketime";i:1429235106;}<!DOCTYPE html>
+<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:64:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/index.dwt";i:1;s:78:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/library/ad_position.lbi";i:2;s:78:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429238793;s:8:"maketime";i:1429235193;}<!DOCTYPE html>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -16,7 +16,7 @@
 <body>
 <div id="page">
   <header id="header" >
-    <div class="header_l"> <a class="ico_02" href="#menu"> 菜单栏 </a> </div>
+<!--<div class="header_l"> <a class="ico_02" href="#menu"> 菜单栏 </a> </div>-->
     <h1> 圈美 </h1>
     <div class="header_r"> <a class="ico_01" href="flow.php"> 购物车 </a> </div>
   </header>
