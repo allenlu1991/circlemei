@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:64:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/index.dwt";i:1;s:78:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/library/ad_position.lbi";i:2;s:78:"/a/domains/wx.wawow.me/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429238995;s:8:"maketime";i:1429235395;}<!DOCTYPE html>
+<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:66:"/a/domains/circlemei.com/circlemei/mobile/themes/miqinew/index.dwt";i:1;s:80:"/a/domains/circlemei.com/circlemei/mobile/themes/miqinew/library/ad_position.lbi";i:2;s:80:"/a/domains/circlemei.com/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429243433;s:8:"maketime";i:1429239833;}<!DOCTYPE html>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
