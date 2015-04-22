@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:5:{i:0;s:59:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/article.dwt";i:1;s:71:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/page_header.lbi";i:2;s:67:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/ur_here.lbi";i:3;s:69:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/left_help.lbi";i:4;s:71:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429220383;s:8:"maketime";i:1429216783;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:5:{i:0;s:61:"/a/domains/circlemei.com/circlemei/themes/miqinew/article.dwt";i:1;s:73:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/page_header.lbi";i:2;s:69:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/ur_here.lbi";i:3;s:71:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/left_help.lbi";i:4;s:73:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429656487;s:8:"maketime";i:1429652887;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -588,7 +588,7 @@ catch (e) {
     <br />
      
     554fcae493e564ee0dc75bdf2ebf94caquery_info|a:1:{s:4:"name";s:10:"query_info";}554fcae493e564ee0dc75bdf2ebf94ca<br />
-    <a href="http://www.ecshop.com" target="_blank" style=" font-family:Verdana; font-size:11px;">Powered&nbsp;by&nbsp;<strong><span style="color: #3366FF">ECShop</span>&nbsp;<span style="color: #FF9966">v2.7.3</span></strong></a>&nbsp;<a href="http://www.ecshop.com/license.php?product=ecshop_b2c&url=http%3A%2F%2Fcirclemei.wawow.me%2F" target="_blank"
+    <a href="http://www.ecshop.com" target="_blank" style=" font-family:Verdana; font-size:11px;">Powered&nbsp;by&nbsp;<strong><span style="color: #3366FF">ECShop</span>&nbsp;<span style="color: #FF9966">v2.7.3</span></strong></a>&nbsp;<a href="http://www.ecshop.com/license.php?product=ecshop_b2c&url=http%3A%2F%2Fwww.circlemei.com%2F" target="_blank"
 >&nbsp;&nbsp;Licensed</a><br />
         <div align="left"  id="rss"><a href=""><img src="themes/miqinew/images/xml_rss2.gif" alt="rss" /></a></div>
   </div>

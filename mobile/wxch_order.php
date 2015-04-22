@@ -89,8 +89,6 @@ if($wxch_user_id > 0)
 
 	}
 
-
-
 	$post_msg = '{
        "touser":"'.$wxid.'",
        "msgtype":"news",

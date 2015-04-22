@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:14:{i:0;s:57:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/goods.dwt";i:1;s:71:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/page_header.lbi";i:2;s:67:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/ur_here.lbi";i:3;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/goods_gallery.lbi";i:4;s:63:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/vip.lbi";i:5;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/goods_related.lbi";i:6;s:71:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/top10_goods.lbi";i:7;s:71:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/brand_goods.lbi";i:8;s:79:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/recommend_new_goods.lbi";i:9;s:80:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/recommend_best_goods.lbi";i:10;s:74:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/goods_fittings.lbi";i:11;s:68:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/comments.lbi";i:12;s:73:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/benwangyoushi.lbi";i:13;s:71:"/a/domains/wx.wawow.me/circlemei/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429220213;s:8:"maketime";i:1429216613;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:14:{i:0;s:59:"/a/domains/circlemei.com/circlemei/themes/miqinew/goods.dwt";i:1;s:73:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/page_header.lbi";i:2;s:69:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/ur_here.lbi";i:3;s:75:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/goods_gallery.lbi";i:4;s:65:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/vip.lbi";i:5;s:75:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/goods_related.lbi";i:6;s:73:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/top10_goods.lbi";i:7;s:73:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/brand_goods.lbi";i:8;s:81:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/recommend_new_goods.lbi";i:9;s:82:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/recommend_best_goods.lbi";i:10;s:76:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/goods_fittings.lbi";i:11;s:70:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/comments.lbi";i:12;s:75:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/benwangyoushi.lbi";i:13;s:73:"/a/domains/circlemei.com/circlemei/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429656420;s:8:"maketime";i:1429652820;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -476,7 +476,7 @@ $(function(){
                    
                   
                   
-                  <p style="display:none" > 商品点击数：94 </p>
+                  <p style="display:none" > 商品点击数：101 </p>
                   <p> 
                     
                      
@@ -708,7 +708,10 @@ $(function(){
     <div class="block clearfix"> 
       
       <div class="AreaL" style=" width:275px"> 
-         <div class=" top_10_goods lshadow">
+       
+Warning: file_put_contents(/a/domains/circlemei.com/circlemei/temp/compiled/goods_related.lbi.php): failed to open stream: Permission denied in /a/domains/circlemei.com/circlemei/includes/cls_template.php on line 262
+Notice: can't write:/a/domains/circlemei.com/circlemei/temp/compiled/goods_related.lbi.php in /a/domains/circlemei.com/circlemei/includes/cls_template.php on line 264
+  <div class=" top_10_goods lshadow">
   <h2 class="mall_leftTitle c333">同类热销排行</h2>
   <div class="boxCenterList2"> 
      
@@ -1983,7 +1986,7 @@ return offset;
     <br />
      
     554fcae493e564ee0dc75bdf2ebf94caquery_info|a:1:{s:4:"name";s:10:"query_info";}554fcae493e564ee0dc75bdf2ebf94ca<br />
-    <a href="http://www.ecshop.com" target="_blank" style=" font-family:Verdana; font-size:11px;">Powered&nbsp;by&nbsp;<strong><span style="color: #3366FF">ECShop</span>&nbsp;<span style="color: #FF9966">v2.7.3</span></strong></a>&nbsp;<a href="http://www.ecshop.com/license.php?product=ecshop_b2c&url=http%3A%2F%2Fcirclemei.wawow.me%2F" target="_blank"
+    <a href="http://www.ecshop.com" target="_blank" style=" font-family:Verdana; font-size:11px;">Powered&nbsp;by&nbsp;<strong><span style="color: #3366FF">ECShop</span>&nbsp;<span style="color: #FF9966">v2.7.3</span></strong></a>&nbsp;<a href="http://www.ecshop.com/license.php?product=ecshop_b2c&url=http%3A%2F%2Fwww.circlemei.com%2F" target="_blank"
 >&nbsp;&nbsp;Licensed</a><br />
         <div align="left"  id="rss"><a href=""><img src="themes/miqinew/images/xml_rss2.gif" alt="rss" /></a></div>
   </div>
@@ -2038,7 +2041,7 @@ var minute = "分钟";
 var second = "秒";
 var end = "结束";
 var goodsId = 17;
-var now_time = 1429187813;
+var now_time = 1429624020;
 onload = function(){
   changePrice();
   fixpng();

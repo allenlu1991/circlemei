@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:66:"/a/domains/circlemei.com/circlemei/mobile/themes/miqinew/index.dwt";i:1;s:80:"/a/domains/circlemei.com/circlemei/mobile/themes/miqinew/library/ad_position.lbi";i:2;s:80:"/a/domains/circlemei.com/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429244213;s:8:"maketime";i:1429240613;}<!DOCTYPE html>
+<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:66:"/a/domains/circlemei.com/circlemei/mobile/themes/miqinew/index.dwt";i:1;s:80:"/a/domains/circlemei.com/circlemei/mobile/themes/miqinew/library/ad_position.lbi";i:2;s:80:"/a/domains/circlemei.com/circlemei/mobile/themes/miqinew/library/page_footer.lbi";}s:7:"expires";i:1429669776;s:8:"maketime";i:1429666176;}<!DOCTYPE html>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -76,7 +76,7 @@ TouchSlide({
     <a href="./" class="homeBtn"> <span class="ico_05"> </span> </a> <a href="#top" class="gotop"> <span class="ico_06"> </span> <p> TOP </p>
     </a>
   </div>-->
-  <!--<p class="link region"> <a href="http://circlemei.wawow.me/?computer=1"> 电脑版 </a> <a href="./"> 触屏版 </a> <a href="#"> 苹果客户端 </a> <a class="#"> Android客户端 </a> </p>-->
+  <!--<p class="link region"> <a href="http://www.circlemei.com/?computer=1"> 电脑版 </a> <a href="./"> 触屏版 </a> <a href="#"> 苹果客户端 </a> <a class="#"> Android客户端 </a> </p>-->
   <p class="region"> 
      
     &copy; 2015 圈美 版权所有，并保留所有权利。 </p>
